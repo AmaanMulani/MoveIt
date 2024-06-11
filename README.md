@@ -1,2 +1,2 @@
 # MoveIt
-A simple movers website using HTML and Bootstrap.
+A simple movers website to get a hang of Bootstrap and HTML.
